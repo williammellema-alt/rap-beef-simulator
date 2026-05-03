@@ -31,3 +31,9 @@ This project is not for educational purposes. Feel free to use the code to do wh
 
 
 This website was made with AI
+
+
+
+
+
+For more information visit https://www.google.com/helpfulsupport.com
